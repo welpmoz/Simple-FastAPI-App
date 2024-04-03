@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpie
+pytest
+python-jose[cryptography]
+passlib
+python-multipart
+pytest-mock
